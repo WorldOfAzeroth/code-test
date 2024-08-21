@@ -1,8 +1,13 @@
-# code-test
+package org.codetest;
 
-### There are offer two implementations RegexpConsecutiveLetterScanner and SimpleConsecutiveLetterScanner
 
-```java
+import org.junit.Assert;
+import org.junit.Test;
+
+import java.util.Map;
+
+public class ConsecutiveLetterScannerTest {
+
 
     @Test
     public void testRemove() {
@@ -57,4 +62,5 @@
 
     }
 
-```
+
+}
